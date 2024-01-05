@@ -11,3 +11,4 @@
 - create `.env` file, required for keeping sensitive information safe and to make app deployable.
 - use the variable from `.env` file using `proces.env.VARIABLE_NAME``.
 - deploy the app on any free service like `render.com` or `any_random_service_name.com`.
+- deployed on render.com - [Deployment Link](https://series-javascript-backend-01-folder.onrender.com)
